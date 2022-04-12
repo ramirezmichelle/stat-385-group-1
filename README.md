@@ -1,2 +1,2 @@
 # stat-385-group-1
-final project: Travel Insurance Prediction
+final project for stat 385: Travel Insurance Prediction
